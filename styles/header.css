@@ -52,4 +52,7 @@
 .container__botao:checked ~ .lista__menu{
     display: block;
 }
+
+@media screen and (min-widht: 1024px) {
     
+}
